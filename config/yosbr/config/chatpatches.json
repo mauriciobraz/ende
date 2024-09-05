@@ -1,0 +1,36 @@
+{
+  "time": false,
+  "hover": true,
+  "counter": true,
+  "boundary": true,
+
+  "hoverFormat": "$",
+  "timeFormat": "[$]",
+  "timeDate": "HH:mm",
+  "hoverDate": "MM/dd/yyyy",
+
+  "timeColor": 16733695,
+  "hoverColor": 16777215,
+  "counterColor": 16777045,
+  "boundaryColor": 5636095,
+
+  "chatLog": true,
+  "chatHidePacket": true,
+
+  "chatWidth": 0,
+  "shiftChat": 10,
+  "copyColor": 5636095,
+  "chatMaxMessages": 16384,
+  "counterCompactDistance": 0,
+
+  "searchDrafting": true,
+  "counterCompact": false,
+  "vanillaClearing": false,
+  "messageDrafting": false,
+  "hideSearchButton": false,
+  "copyReplyFormat": "/msg $ ",
+
+  "chatNameFormat": "\u00267$ »\u0026r",
+  "boundaryFormat": "\u00268[\u0026r$\u00268]",
+  "counterFormat": "\u00268(\u00267x\u0026r$\u00268)"
+}

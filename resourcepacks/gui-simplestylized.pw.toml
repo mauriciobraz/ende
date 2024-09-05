@@ -1,0 +1,13 @@
+name = "GUI SimpleStylized"
+filename = "GUI SimpleStylized.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/npx9y1KS/versions/Q2Zpdcvf/GUI-SimpleStylized_4.8-1.20%2B.zip"
+hash-format = "sha512"
+hash = "f2837261bd9db8fc811f8120f11ca96dd0925c8c66c9e94f2fa2c1fc5a314de740be566e293faae9040fb6cef9b56b7047ac214611caefe430bae555857dc1b3"
+
+[update]
+[update.modrinth]
+mod-id = "npx9y1KS"
+version = "Q2Zpdcvf"

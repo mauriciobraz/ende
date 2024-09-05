@@ -1,0 +1,13 @@
+name = "Minimalistic Font"
+filename = "Minimalistic Font.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TZgx2oG8/versions/XDWB1koP/Minimalistic%20Font.zip"
+hash-format = "sha512"
+hash = "3b8200628e421a5b73b6bf21211b0973e048d22bf371271db55fc26cfbdedf5f2060461c5f19e7e5e7a69eea145338d87d561712203fd33cd73564ee6e0b73d9"
+
+[update]
+[update.modrinth]
+mod-id = "TZgx2oG8"
+version = "XDWB1koP"

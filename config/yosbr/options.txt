@@ -22,8 +22,30 @@ key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
+key_gui.xaero_instant_waypoint:key.keyboard.unknown
+
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
-incompatibleResourcePacks:[]
+key_keybind.name.ZOOM:key.keyboard.unknown
+key_keybind.name.CHAT_PEEK:key.keyboard.unknown
+key_keybind.name.EMOTE_WHEEL:key.keyboard.unknown
+
+key_keybind.name.INVITE_FRIENDS:key.keyboard.unknown
+key_keybind.name.COSMETIC_STUDIO:key.keyboard.unknown
+
+key_keybind.name.ESSENTIAL_FRIENDS:key.keyboard.unknown
+key_keybind.name.SCREENSHOT_MANAGER:key.keyboard.unknown
+key_keybind.name.COSMETICS_VISIBILITY_TOGGLE:key.keyboard.unknown
+
+key_keybind.name.EMOTE_SLOT_1:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_2:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_3:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_4:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_5:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_6:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_7:key.keyboard.unknown
+key_keybind.name.EMOTE_SLOT_8:key.keyboard.unknown
+
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Xali\u0027s Enchanted Books Addon.zip","file/Xali\u0027s Enchanted Books.zip","file/Xali\u0027s Potions.zip","file/Xali\u0027s Potions Addon.zip","file/Xali\u0027s Enhanced Vanilla.zip","file/Icon Xaero\u0027s 1.2 HF.zip","file/GUI SimpleStylized.zip","file/Minimalistic Font.zip"]
+incompatibleResourcePacks:["file/Xali\u0027s Enchanted Books.zip","file/Xali\u0027s Potions.zip","file/Xali\u0027s Potions Addon.zip","file/Xali\u0027s Enhanced Vanilla.zip","file/Icon Xaero\u0027s 1.2 HF.zip","file/Minimalistic Font.zip"]
