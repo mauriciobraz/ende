@@ -1,0 +1,13 @@
+{
+  "main_menu": {
+    "bottom_right": [
+      {
+        "text": "Fabulously Optimized 5.4.1",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://fabulously-optimized.github.io/"
+        }
+      }
+    ]
+  }
+}

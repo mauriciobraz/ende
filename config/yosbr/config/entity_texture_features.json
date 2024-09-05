@@ -1,0 +1,7 @@
+{
+  "illegalPathSupportMode": "Entity",
+  "skinFeaturesEnableTransparency": false,
+  "allowIllegalTexturePaths": true,
+  "skinFeaturesEnabled": false,
+  "hideConfigButton": true
+}

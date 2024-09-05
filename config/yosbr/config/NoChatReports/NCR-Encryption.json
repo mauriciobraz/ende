@@ -1,0 +1,7 @@
+{
+  "skipWarning": false,
+  "encryptPublic": true,
+  "enableEncryption": false,
+  "showEncryptionButton": false,
+  "showEncryptionIndicators": true
+}

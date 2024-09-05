@@ -1,0 +1,46 @@
+{
+  "disable_update_checker": [],
+  "hidden_configs": [],
+
+  "hidden_mods": [
+    "indium",
+    "minecraft",
+    "puzzle-base",
+    "puzzle-gui",
+    "puzzle-models",
+    "citresewn-defaults",
+    "puzzle-splashscreen"
+  ],
+
+  "config_mode": false,
+  "update_checker": false,
+  "translate_names": true,
+
+  "random_java_colors": false,
+  "hide_config_buttons": false,
+  "disable_drag_and_drop": false,
+
+  "translate_descriptions": true,
+  "button_update_badge": false,
+  "modify_title_screen": true,
+
+  "modify_game_menu": true,
+  "quick_configure": true,
+  "show_libraries": false,
+  "easter_eggs": false,
+
+  "hide_badges": true,
+  "hide_mod_links": false,
+  "hide_mod_credits": true,
+  "hide_mod_license": true,
+
+  "compact_list": false,
+  "count_children": true,
+  "count_libraries": false,
+  "count_hidden_mods": false,
+
+  "game_menu_button_style": "replace_bugs",
+  "mod_count_location": "title_screen",
+  "mods_button_style": "shrink",
+  "sorting": "ascending"
+}

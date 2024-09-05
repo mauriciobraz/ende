@@ -1,0 +1,24 @@
+{
+  "defaultSigningMode": "ON_DEMAND",
+
+  "enableMod": true,
+  "demandOnServer": false,
+
+  "showNCRButton": false,
+  "hideWarningToast": true,
+  "disableTelemetry": false,
+  "showReloadButton": false,
+  "removeTelemetryButton": false,
+  "alwaysHideReportButton": false,
+
+  "showServerSafety": true,
+  "skipRealmsWarning": true,
+  "skipSigningWarning": true,
+  "verifiedIconEnabled": false,
+
+  "hideSigningRequestMessage": true,
+  "hideSystemMessageIndicators": true,
+
+  "hideInsecureMessageIndicators": true,
+  "hideModifiedMessageIndicators": false
+}
