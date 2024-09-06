@@ -1,0 +1,13 @@
+name = "Astrocraft: Ad Astra Compat"
+filename = "astrocompat-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ekQnvYYr/versions/TE2t4XmK/astrocompat-1.1.jar"
+hash-format = "sha512"
+hash = "b9115746dc2b0aeb44bbb086000ab39ef740b002b4feae3761f4c25ce6d0f4d42d3e3359c0f6b28bb20851d503c725ca37c715b1ca468421e9e30332aec9b82e"
+
+[update]
+[update.modrinth]
+mod-id = "ekQnvYYr"
+version = "TE2t4XmK"

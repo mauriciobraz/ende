@@ -1,0 +1,13 @@
+name = "Create: Coggle"
+filename = "create-cogglewoggle-0.1.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RbZ82HwK/versions/k76KOtvc/create-cogglewoggle-0.1.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "62640ba0dc328c6aaa54df423d4086d869fc379ef89b835474b8e1e0c73a5bf6514bee895e76aefd07231ff1fa703e1f9bd761e9d5e5e44345e305a5894c55f9"
+
+[update]
+[update.modrinth]
+mod-id = "RbZ82HwK"
+version = "k76KOtvc"

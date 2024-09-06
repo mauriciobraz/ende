@@ -1,0 +1,13 @@
+name = "Modonomicon"
+filename = "modonomicon-1.20.1-fabric-1.75.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/692GClaE/versions/a8J0S2Pn/modonomicon-1.20.1-fabric-1.75.0.jar"
+hash-format = "sha512"
+hash = "32ca945ddad1013093c13d91fb2d4869892637633ec0ed81cece8fafc4e573f82cda87b56106c90d05cb4530314fcc02f23fe8a031362d535f969bd5ceebee93"
+
+[update]
+[update.modrinth]
+mod-id = "692GClaE"
+version = "a8J0S2Pn"

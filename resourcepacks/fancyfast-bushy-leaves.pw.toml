@@ -1,0 +1,13 @@
+name = "FancyFast Bushy Leaves"
+filename = "Fancy Fast Bushy Leaves.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pQHHONnS/versions/I4PqtNOk/%C2%A7fFancy%C2%A75Fast%20%C2%A72Bushy%20Leaves%C2%A70.zip"
+hash-format = "sha512"
+hash = "964d6e3f88bf2969f024eae3862daaa69b7d3449ed74bb885ed34c61732a85b485128d7eb665f538dc72de0720899d58a81375f1721eef591720c07d1b9f814a"
+
+[update]
+[update.modrinth]
+mod-id = "pQHHONnS"
+version = "I4PqtNOk"

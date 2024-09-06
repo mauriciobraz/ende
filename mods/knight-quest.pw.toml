@@ -1,0 +1,13 @@
+name = "Knight Quest"
+filename = "knightquest-1.6.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VEOQ4Jz4/versions/UPgUNSYz/knightquest-1.6.1-fabric.jar"
+hash-format = "sha512"
+hash = "fa0b80e7e46482a85a7112cf0d13dbe57c54c12a42261931b9e8b3dbad05a550dc746ba81b0d503b47dbfa5ce7eea5697f101ef441619df78093516efb6d2df7"
+
+[update]
+[update.modrinth]
+mod-id = "VEOQ4Jz4"
+version = "UPgUNSYz"

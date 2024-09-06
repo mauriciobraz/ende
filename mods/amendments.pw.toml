@@ -1,0 +1,13 @@
+name = "Amendments"
+filename = "amendments-1.20-1.2.10-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6iTJugQR/versions/qaecyVMb/amendments-1.20-1.2.10-fabric.jar"
+hash-format = "sha512"
+hash = "21eeccef3217079aa77058c3781f38ae8f92d76b7cd21f07c8b4f7232e8263875ebcee42bfe2b8d8f158830d2b86cd662dfe87e90f63f602becab665bc458459"
+
+[update]
+[update.modrinth]
+mod-id = "6iTJugQR"
+version = "qaecyVMb"

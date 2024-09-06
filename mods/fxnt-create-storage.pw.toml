@@ -1,0 +1,13 @@
+name = "Create: Storage"
+filename = "fxntstorage-0.18-1.20.1-FABRIC+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/68AG9cQg/versions/9CMFdQWv/fxntstorage-0.18-1.20.1-FABRIC%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ac015a46362dbf108bc5010350c0b072be33de2aea1933d3788eafea7581a87158310ca61543bf7dec3d3e811d8c6ebc469cccf0eaad514cfdc3745119c001cb"
+
+[update]
+[update.modrinth]
+mod-id = "68AG9cQg"
+version = "9CMFdQWv"

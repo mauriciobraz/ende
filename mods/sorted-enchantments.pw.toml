@@ -1,0 +1,13 @@
+name = "Sorted Enchantments"
+filename = "sorted_enchantments-1.0.1+1.19.3+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jmHEp0Dv/versions/7YeriQiy/sorted_enchantments-1.0.1%2B1.19.3%2Bfabric.jar"
+hash-format = "sha512"
+hash = "35eddeb4ae4e60493fb967ba1716a461a81d863b8cff964dd7017cc5d9746734c6ddf5aef13e1036ae3b18e72fb1588dea98705dc377ab269df27e0bab7a0b73"
+
+[update]
+[update.modrinth]
+mod-id = "jmHEp0Dv"
+version = "7YeriQiy"

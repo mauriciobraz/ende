@@ -1,0 +1,13 @@
+name = "Hole Filler Mod"
+filename = "hole_filler_mod-1.2.4.3_mc-1.20.1_fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F3WCdx29/versions/j0nK2HVX/hole_filler_mod-1.2.4.3_mc-1.20.1_fabric.jar"
+hash-format = "sha512"
+hash = "8e2e887491a80875a7c4a5391d34aa0c6705e209d0488e02fae2202cbb48df7c83494c8f43d08c0c041c04f59a5495c3637a134f13ea58b2d07230c685a7aca5"
+
+[update]
+[update.modrinth]
+mod-id = "F3WCdx29"
+version = "j0nK2HVX"

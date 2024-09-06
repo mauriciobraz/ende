@@ -1,0 +1,13 @@
+name = "Ring of Flight"
+filename = "ring-of-flight-v0.0.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nk3V3NXc/versions/upRWTfnX/ring-of-flight-v0.0.3-fabric.jar"
+hash-format = "sha512"
+hash = "7d794ddf3849625ae162c99a1d8c6087075f653dafff2076dd12e38553a945583cbbeaa3584a6d20439e608ce26d1f255f4255ebc1ceb7c337c78e155977eba6"
+
+[update]
+[update.modrinth]
+mod-id = "nk3V3NXc"
+version = "upRWTfnX"
