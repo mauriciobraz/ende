@@ -12,8 +12,8 @@ show_essential_indicator_on_nametags = true
 [general.experience]
 essential_menu_layout = 0
 enable_essential = true
-quick_action_bar = true
-use_vanilla_button_texture = true
+quick_action_bar = false
+use_vanilla_button_texture = false
 darken_re-textured_menu_buttons = false
 closer_placement_of_minimal_essential_menu = true
 

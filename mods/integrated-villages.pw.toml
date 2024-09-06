@@ -1,0 +1,13 @@
+name = "Integrated Villages"
+filename = "integrated_villages-1.0.1+1.20.1-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/o1qh5qIF/versions/qRpmeMnL/integrated_villages-1.0.1%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "1a86e4584fda716c7639402fb503488e5a4fb1bae7f5de969631a204870596d10e7be9cb82cd2b70cb65b2222f8e10e0a7048ed8b9779d74dc53a8e92070a3df"
+
+[update]
+[update.modrinth]
+mod-id = "o1qh5qIF"
+version = "qRpmeMnL"

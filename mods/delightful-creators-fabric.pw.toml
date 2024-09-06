@@ -1,0 +1,13 @@
+name = "Delightful Creators  [Fabric]"
+filename = "delightful-creators-1.3-1.20.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jmJ87gsb/versions/Fwpfj97E/delightful-creators-1.3-1.20.x.jar"
+hash-format = "sha512"
+hash = "ab54218ec868dfcd49e76b8d158b20eb328270137ac5acabea4e30a7bb164f6d627a5af253ca178f96cb42b05a3c3a5e0354184a647e6af43d862e3cac6f1927"
+
+[update]
+[update.modrinth]
+mod-id = "jmJ87gsb"
+version = "Fwpfj97E"
